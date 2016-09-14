@@ -1,1 +1,1 @@
-# ReactNYTimes
+# Boilerplate React App
