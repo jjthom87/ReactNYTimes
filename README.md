@@ -1,1 +1,1 @@
-# Boilerplate React App
+# NY Times API React App
